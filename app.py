@@ -47,6 +47,7 @@ csv_template = pd.DataFrame({
     '[MANUFAC]': ['LEDFLEX'],
     '[LUMCAT]': ['C01181523'],
     '[LAMPCAT]': ['LAMP123'],
+    '[LUMINAIRE]':['C01181523'],
     '[TEST]': ['REMOVE'],
     '[TESTLAB]': ['KEEP'],
     '[TESTDATE]': ['2023-08-15'],
